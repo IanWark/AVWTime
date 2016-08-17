@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/21 13:49:07.000.548,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\callbackframework.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.506,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\base64.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.672,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.890,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\images\collapse.png</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.596,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\base64-min.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.743,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.826,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\templates\reversestring.html</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.113,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\FormUnit1.pas</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.520,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.694,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\callbackframework-min.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.614,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\json2-min.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.533,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\json2.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.392,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.769,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\css\main.css</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.278,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.858,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.797,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.924,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\images\expand.png</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.567,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctions.js</Transaction>
+    <Transaction>2016/05/21 13:49:07.000.717,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\connection.js</Transaction>
+    <Transaction>2016/05/21 13:51:12.000.737,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\FormUnit1.pas</Transaction>
+    <Transaction>2016/05/21 13:51:12.000.899,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/05/21 13:51:12.000.992,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.193,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.478,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\templates\reversestring.html</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.348,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\callbackframework-min.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.370,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\connection.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.206,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\json2.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.306,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\json2-min.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.288,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\base64-min.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.509,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.396,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.421,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\css\main.css</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.273,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctions.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.540,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\images\collapse.png</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.222,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\callbackframework.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.449,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.327,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.574,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\images\expand.png</Transaction>
+    <Transaction>2016/05/21 13:51:14.000.181,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\js\base64.js</Transaction>
+    <Transaction>2016/05/21 14:26:42.000.660,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ServerUnit.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\FormUnit1.fmx</Transaction>
+    <Transaction>2016/05/21 14:26:42.000.660,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ServerUnit.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\FormUnit1.pas</Transaction>
+    <Transaction>2016/06/01 19:12:29.000.519,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\IanTest.dproj=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\TimeDatasnapServer.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

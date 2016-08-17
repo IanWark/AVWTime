@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{05B004F7-34B3-4C8E-B74C-606B5E632386}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="HeaderFooterApplicationtest.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="IanTest.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Project2.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="HeaderFooterApplicationtest">
+        <MSBuild Projects="HeaderFooterApplicationtest.dproj"/>
+    </Target>
+    <Target Name="HeaderFooterApplicationtest:Clean">
+        <MSBuild Projects="HeaderFooterApplicationtest.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="HeaderFooterApplicationtest:Make">
+        <MSBuild Projects="HeaderFooterApplicationtest.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="IanTest">
+        <MSBuild Projects="IanTest.dproj"/>
+    </Target>
+    <Target Name="IanTest:Clean">
+        <MSBuild Projects="IanTest.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="IanTest:Make">
+        <MSBuild Projects="IanTest.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project2">
+        <MSBuild Projects="Project2.dproj"/>
+    </Target>
+    <Target Name="Project2:Clean">
+        <MSBuild Projects="Project2.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project2:Make">
+        <MSBuild Projects="Project2.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="HeaderFooterApplicationtest;IanTest;Project2"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="HeaderFooterApplicationtest:Clean;IanTest:Clean;Project2:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="HeaderFooterApplicationtest:Make;IanTest:Make;Project2:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

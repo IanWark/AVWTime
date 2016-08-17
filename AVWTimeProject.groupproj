@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{DE0A1ED1-66BF-4D72-904D-E79289A48B06}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="TimeDatasnapServer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="AVWTime.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TimeDatasnapServer">
+        <MSBuild Projects="TimeDatasnapServer.dproj"/>
+    </Target>
+    <Target Name="TimeDatasnapServer:Clean">
+        <MSBuild Projects="TimeDatasnapServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TimeDatasnapServer:Make">
+        <MSBuild Projects="TimeDatasnapServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="AVWTime">
+        <MSBuild Projects="AVWTime.dproj"/>
+    </Target>
+    <Target Name="AVWTime:Clean">
+        <MSBuild Projects="AVWTime.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AVWTime:Make">
+        <MSBuild Projects="AVWTime.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TimeDatasnapServer;AVWTime"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TimeDatasnapServer:Clean;AVWTime:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TimeDatasnapServer:Make;AVWTime:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

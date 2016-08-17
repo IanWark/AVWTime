@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPad" Android="42f7d80717fdafed"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2016/05/02 21:45:27.000.833,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 21:45:38.000.145,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Controller.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 21:46:18.000.336,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\View.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\HeaderFooterTemplate.pas</Transaction>
+    <Transaction>2016/05/02 21:46:18.000.336,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\View.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\HeaderFooterTemplate.fmx</Transaction>
+    <Transaction>2016/05/02 21:46:59.000.421,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\MainView.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\View.fmx</Transaction>
+    <Transaction>2016/05/02 21:46:59.000.421,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\MainView.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\View.pas</Transaction>
+    <Transaction>2016/05/02 21:47:05.000.605,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Main.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\MainView.pas</Transaction>
+    <Transaction>2016/05/02 21:47:05.000.605,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Main.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\MainView.fmx</Transaction>
+    <Transaction>2016/05/02 21:47:22.000.522,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 21:47:37.000.151,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 21:47:37.000.151,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.fmx</Transaction>
+    <Transaction>2016/05/02 21:56:06.000.082,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 21:56:25.000.881,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 21:56:25.000.881,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.fmx</Transaction>
+    <Transaction>2016/05/02 22:00:10.000.662,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 22:00:17.000.267,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.fmx</Transaction>
+    <Transaction>2016/05/02 22:00:17.000.267,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 22:03:45.000.955,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/02 23:34:26.000.933,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.fmx</Transaction>
+    <Transaction>2016/05/02 23:34:26.000.933,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 01:12:45.000.461,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.pas</Transaction>
+    <Transaction>2016/05/03 01:12:45.000.461,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Select.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.fmx</Transaction>
+    <Transaction>2016/05/03 19:11:53.000.881,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 19:12:33.000.856,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\TimeRecord.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 19:14:30.000.778,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 19:14:36.000.723,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\TimeRecord.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/05/03 19:52:35.000.081,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\TestTimeRecord.pas</Transaction>
+    <Transaction>2016/05/06 21:03:27.000.224,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Edit.pas</Transaction>
+    <Transaction>2016/05/06 21:03:27.000.224,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Edit.fmx</Transaction>
+    <Transaction>2016/05/06 21:03:49.000.686,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Edit.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.pas</Transaction>
+    <Transaction>2016/05/06 21:03:49.000.686,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Edit.fmx=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Add.fmx</Transaction>
+    <Transaction>2016/05/06 21:06:43.000.272,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit2.pas</Transaction>
+    <Transaction>2016/05/10 17:30:23.000.048,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\MiscTypes.pas</Transaction>
+    <Transaction>2016/05/21 13:25:28.000.643,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\HeaderFooterApplicationtest.dproj=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\HeaderFooterApplication.dproj</Transaction>
+    <Transaction>2016/05/21 14:43:59.000.586,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ClientModuleUnit2.pas</Transaction>
+    <Transaction>2016/05/21 14:43:59.000.499,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ClientClassesUnit2.pas</Transaction>
+    <Transaction>2016/05/21 14:44:08.000.418,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ClientModuleUnit.dfm=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ClientModuleUnit2.dfm</Transaction>
+    <Transaction>2016/05/21 14:44:08.000.418,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ClientModuleUnit.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\ClientModuleUnit2.pas</Transaction>
+    <Transaction>2016/05/22 20:23:40.000.716,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\TestTimeRecord.pas=</Transaction>
+    <Transaction>2016/06/01 17:29:03.000.363,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\AVWTime.dproj=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\HeaderFooterApplicationtest.dproj</Transaction>
+    <Transaction>2016/06/04 17:25:28.000.868,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/06/04 17:26:50.000.031,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Connection.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/06/04 17:28:43.000.041,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/06/04 17:31:51.000.031,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\FileController.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/06/04 17:35:26.000.811,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\DataController.pas=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Controller.pas</Transaction>
+    <Transaction>2016/06/04 18:02:18.000.116,C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\Connection.pas=</Transaction>
+    <Transaction>2016/06/07 17:34:53.000.956,=C:\Users\allanwa.WARK\Documents\Embarcadero\Studio\Projects\IanTest\NetworkState.pas</Transaction>
+    <Transaction>2016/07/16 23:18:41.000.984,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\NetworkState.Android.pas</Transaction>
+    <Transaction>2016/07/16 23:18:42.000.025,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\NetworkState.Windows.pas</Transaction>
+    <Transaction>2016/07/18 22:29:24.000.061,C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\NetworkState.pas=</Transaction>
+    <Transaction>2016/07/18 22:29:24.000.046,C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\NetworkState.Android.pas=</Transaction>
+    <Transaction>2016/07/19 20:08:43.000.469,C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\NetworkState.Windows.pas=</Transaction>
+    <Transaction>2016/08/15 20:24:13.000.537,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/08/15 20:26:25.000.410,C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\classThreads.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\Unit1.pas</Transaction>
+    <Transaction>2016/08/16 19:28:01.000.401,C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\classTimeRecord.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\IanTest\TimeRecord.pas</Transaction>
+  </Transactions>
+</BorlandProject>
